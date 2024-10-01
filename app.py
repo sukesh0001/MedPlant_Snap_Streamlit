@@ -153,11 +153,11 @@ st.sidebar.info("Many don't have the knowledge about the medicinal leaves. So, t
 # Add GitHub and LinkedIn links to the sidebar
 st.sidebar.markdown("""
     <h3>To explore projects like this visit:</h3>
-<a href="https://github.com/Bilal1729" target="_blank" style="color: #ECF0F1; text-decoration: none;">
+<a href="https://github.com" target="_blank" style="color: #ECF0F1; text-decoration: none;">
     <i class="fab fa-github social-icon"></i> GitHub
 </a><br><br>
 <h3>Feel free to get in touch:</h3>
-<a href="https://www.linkedin.com/in/bilal1729/" target="_blank" style="color: #ECF0F1; text-decoration: none;">
+<a href="https://www.linkedin.com/in" target="_blank" style="color: #ECF0F1; text-decoration: none;">
     <i class="fab fa-linkedin social-icon"></i> LinkedIn
 </a>
 """, unsafe_allow_html=True)
